@@ -7,23 +7,23 @@ The dataset is part of a publication:
 Heikkuri, S. (2026). Technological change and structural shifts in Sweden’s Labor Market, 1870–1930: skill upgrading or deskilling? Scandinavian Economic History Review, 1–25. https://doi.org/10.1080/03585522.2026.2624370
 
 
-Variable definitions:
-occ_id = Occupation identifier
-occ_title = Standardized occupation title (English)
-sector = Major sector (1 = Primary, 2 = Secondary , 3 = Tertiary, 4 = Other)
-hisco = HISCO code
-hisco_title = HISCO description
-hisclass = HISCLASS code
-hisclass_title = HISCLASS description
-skill = Skill-level (1 = High, 2 = Medium, 3 = Low, 4 = Unskilled)
-skill_category = Skill category ("high", "medium", "low", "unskilled")
-manual = dummy for manual occupations (according to HISCLASS)
-year = Census year (1870,...,1930)
-men = total men
-women = total women
-women2 = total women (incl. agricultural wives)
-total = total men and women
-total2 = total men and women (incl. agricultural wives)
+Variable definitions:  
+occ_id = Occupation identifier  
+occ_title = Standardized occupation title (English)  
+sector = Major sector (1 = Primary, 2 = Secondary , 3 = Tertiary, 4 = Other)  
+hisco = HISCO code  
+hisco_title = HISCO description  
+hisclass = HISCLASS code  
+hisclass_title = HISCLASS description  
+skill = Skill-level (1 = High, 2 = Medium, 3 = Low, 4 = Unskilled)  
+skill_category = Skill category ("high", "medium", "low", "unskilled")  
+manual = dummy for manual occupations (according to HISCLASS)  
+year = Census year (1870,...,1930)  
+men = total men  
+women = total women  
+women2 = total women (incl. agricultural wives)  
+total = total men and women  
+total2 = total men and women (incl. agricultural wives)  
 
 NOTE on 1870 census:
 Some occupational groups were reproted together, such as godsägare (major landowners) and hemmansägare (farmers) as well as arrendatorer and brukare (both tenant farmers). I used the 1880 proportions to estimate their numbers.
