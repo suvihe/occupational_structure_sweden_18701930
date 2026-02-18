@@ -3,7 +3,7 @@ The original census occupations have been standardized and coded to HISCO manual
 The HISCO codes were decided based on matches either directly from the Swedish occupational title or through translated occupational title. I am grateful for Christer Lundh for sharing his coding, which I used to cross-check my own coding.
 I will add an appendix explaining the coding behind the dataset soon.
 
-The dataset is part of a publication:
+The dataset is part of a publication:  
 Heikkuri, S. (2026). Technological change and structural shifts in Sweden’s Labor Market, 1870–1930: skill upgrading or deskilling? Scandinavian Economic History Review, 1–25. https://doi.org/10.1080/03585522.2026.2624370
 
 
