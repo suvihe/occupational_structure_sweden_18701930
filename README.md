@@ -25,10 +25,10 @@ women2 = total women (incl. agricultural wives)
 total = total men and women  
 total2 = total men and women (incl. agricultural wives)  
 
-NOTE on 1870 census:
+NOTE on 1870 census:  
 Some occupational groups were reproted together, such as godsägare (major landowners) and hemmansägare (farmers) as well as arrendatorer and brukare (both tenant farmers). I used the 1880 proportions to estimate their numbers.
 Likewise, wives were included as family members. I used the proportiong of 1880 wives and other female relatives to estimate the number of wives for 1870. 
 
 
-UPDATE 2026-02-02: Dataset now available as csv-file. Data Appendix added.
+UPDATE 2026-02-02: Dataset now available as csv-file. Data Appendix added.  
 UPDATE 2026-02-18: Paper now available as an online publiscation at Scandinavian Economic History Review. 
